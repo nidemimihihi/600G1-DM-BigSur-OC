@@ -1,4 +1,4 @@
-# 600G1-DM-BigSur-OC
+# 600G1-DM-BigSur-Monterey-OC
  # 配置
 硬件  | 型号
 ---  | :--
